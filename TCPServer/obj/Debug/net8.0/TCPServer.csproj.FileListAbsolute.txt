@@ -1,0 +1,14 @@
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/bin/Debug/net8.0/TCPServer
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/bin/Debug/net8.0/TCPServer.deps.json
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/bin/Debug/net8.0/TCPServer.runtimeconfig.json
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/bin/Debug/net8.0/TCPServer.dll
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/bin/Debug/net8.0/TCPServer.pdb
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/TCPServer.AssemblyInfoInputs.cache
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/TCPServer.AssemblyInfo.cs
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/TCPServer.csproj.CoreCompileInputs.cache
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/TCPServer.dll
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/refint/TCPServer.dll
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/TCPServer.pdb
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/TCPServer.genruntimeconfig.cache
+/Users/julionavarrorodriguez/Desktop/kuroro/dotnet/TCPServer/TCPServer/obj/Debug/net8.0/ref/TCPServer.dll
