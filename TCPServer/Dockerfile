@@ -1,6 +1,8 @@
 ﻿FROM mcr.microsoft.com/dotnet/runtime:8.0 AS base
-RUN apk update && apk add busybox-extras
+#USER $APP_UID
 EXPOSE 8888
+
+RUN apt-get update && apt-get install telnet
 
 WORKDIR /app
 
