@@ -1,5 +1,5 @@
 ﻿FROM mcr.microsoft.com/dotnet/runtime:8.0 AS base
-USER $APP_UID
+RUN apk update && apk add busybox-extras
 EXPOSE 8888
 
 WORKDIR /app
